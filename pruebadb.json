@@ -1,8 +1,0 @@
-{
-	"profiles":[
-		{"id":1, "name": "Chuyito", "age": 22},
-		{"id":2, "name": "Elena", "age": 25},
-		{"id":3, "name": "Nayeli", "age": 21},
-	]
-
-}
